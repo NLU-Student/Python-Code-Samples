@@ -1,2 +1,2 @@
-# Python Code Samples
+# Python Programs
 Module 3: Lab Activity
